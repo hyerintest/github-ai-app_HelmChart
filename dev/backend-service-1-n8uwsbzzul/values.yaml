@@ -27,7 +27,7 @@ deployment:
     url: turaco-dev-registry.turacocloud.com/dev-turaco-workspace-268/turaco
   image:
     name: backend-service-1-n8uwsbzzul
-    tag: lastest
+    tag: "7074-4082-backend-service-1-n8uwsbzzul-078eedc"
     secret: regsecret
   container:
     name: backend-service-1-n8uwsbzzul
